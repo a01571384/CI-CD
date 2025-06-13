@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Test coverage
+coverage/
+
+# GitHub Pages branch (evita subir archivos generados por deploy)
+dist/
+out/
+gh-pages/
+
+# VSCode settings (opcional)
+.vscode/
+
+# Sistema operativo (opcional)
+.DS_Store
+Thumbs.db
