@@ -64,3 +64,10 @@ El proyecto cumplió con todos los requisitos del ejercicio:
 - Configuración de CI/CD  
 - Despliegue automático en la nube  
 - Informe documentado
+
+
+![image](https://github.com/user-attachments/assets/79c3bef7-69c6-438e-8107-2b105bb81a8b)
+
+![image](https://github.com/user-attachments/assets/6083af6d-a62c-4655-be49-9c12376e4896)
+
+
